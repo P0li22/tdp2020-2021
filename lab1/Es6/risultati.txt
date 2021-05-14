@@ -1,0 +1,6 @@
++ 45.74
+- 32.09
+* 1.49
+/ 2.00
+operazione impossibile
+operazione non valida

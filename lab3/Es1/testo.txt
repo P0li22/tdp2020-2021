@@ -1,0 +1,20 @@
+Caratterizzata da un pass| c: 25
+ato turbolento, in       | c: 18
+epoca medievale Rouen fu | c: 25
+devastata piu' volte     | c: 20
+da incendi ed epidemie e | c: 25
+durante la Guerra        | c: 17
+dei Cent' Anni fu occupat| c: 24
+a dagli inglesi.         | c: 16
+Nel **** nella sua piazza| c: 21
+ centrale la giovane     | c: 20
+Giovanna d' Arco ( Jeanne| c: 23
+ d' Arc) fu processata   | c: 21
+per eresia e arsa sul rog| c: 25
+o! Durante la seconda    | c: 20
+guerra mondiale gli Allea| c: 25
+ti bombardarono          | c: 15
+ampie zone della citta' ,| c: 25
+ soprattutto il          | c: 15
+quartiere che si estende | c: 25
+a sud della cattedrale.  | c: 23
